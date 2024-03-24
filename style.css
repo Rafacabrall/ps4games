@@ -7,7 +7,7 @@ background-color:rgb(79, 66, 221);
 background-image: none ;
 text-align: center;
 
-@media only screen and (max-width: 600px) 
+@media only screen and (max-width: 350px) 
 }
 .topo{ background-image:url(jogos\ walpaper.webp);
     background-repeat:repeat-x;alt="GAMES PS4" width="1000" height="400"
